@@ -261,17 +261,16 @@ body {
   font-size: 4.375rem;
   font-weight: 700;
   max-width: 62.5rem;
-  margin-bottom: 1rem;
   letter-spacing: 0.09375rem;
-  line-height: 1.2;
+  line-height: 1;
   opacity: 0;
   transform: translateY(1.25rem);
   animation: fadeInUp 1s forwards 0.8s;
 }
 .hero p {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   max-width: 62.5rem;
-  line-height: 1.8;
+  line-height: 1.2;
   font-weight: 600;
   color: rgba(255, 255, 255, 0.8);
   margin-bottom: 2.5rem;
@@ -1117,6 +1116,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-self: flex-start;
+  justify-content: space-between;
 }
 .contact-page__column a {
   display: inline-flex;
