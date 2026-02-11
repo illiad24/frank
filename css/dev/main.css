@@ -258,7 +258,7 @@ body {
   }
 }
 .hero__subtitle {
-  font-size: 4.375rem;
+  font-size: 3.25rem;
   font-weight: 700;
   max-width: 62.5rem;
   letter-spacing: 0.09375rem;
@@ -268,7 +268,7 @@ body {
   animation: fadeInUp 1s forwards 0.8s;
 }
 .hero p {
-  font-size: 1.25rem;
+  font-size: 0.9375rem;
   max-width: 62.5rem;
   line-height: 1.2;
   font-weight: 600;
